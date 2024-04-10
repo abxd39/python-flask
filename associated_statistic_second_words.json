@@ -1,0 +1,156 @@
+{
+    "ret_code": "0",
+    "message": "Success",
+    "data": [
+        {
+            "head": "do",
+            "head_to_en": "do",
+            "head_to_zh": "做",
+            "second": "nt",
+            "second_to_en": "nt",
+            "second_to_zh": "新台币",
+            "count": 42,
+            "sentiment_rating": [
+                0,
+                1,
+                0
+            ],
+            "correlation_degree": 2.2428772
+        },
+        {
+            "head": "wanna",
+            "head_to_en": "wanna",
+            "head_to_zh": "想",
+            "second": "do",
+            "second_to_en": "do",
+            "second_to_zh": "做",
+            "count": 9,
+            "sentiment_rating": [
+                0,
+                1,
+                0
+            ],
+            "correlation_degree": 1.3745259
+        },
+        {
+            "head": "nt",
+            "head_to_en": "nt",
+            "head_to_zh": "新台币",
+            "second": "use",
+            "second_to_en": "use",
+            "second_to_zh": "使用",
+            "count": 4,
+            "sentiment_rating": [
+                1,
+                1,
+                0
+            ],
+            "correlation_degree": -0.4582526
+        },
+        {
+            "head": "lite",
+            "head_to_en": "lite",
+            "head_to_zh": "精简版",
+            "second": "version",
+            "second_to_en": "version",
+            "second_to_zh": "版本",
+            "count": 4,
+            "sentiment_rating": [
+                0,
+                1,
+                0
+            ],
+            "correlation_degree": 4.372724
+        },
+        {
+            "head": "chinese",
+            "head_to_en": "chinese",
+            "head_to_zh": "中国人",
+            "second": "version",
+            "second_to_en": "version",
+            "second_to_zh": "版本",
+            "count": 4,
+            "sentiment_rating": [
+                1,
+                1,
+                0
+            ],
+            "correlation_degree": 3.2377443
+        },
+        {
+            "head": "try",
+            "head_to_en": "try",
+            "head_to_zh": "尝试",
+            "second": "map",
+            "second_to_en": "map",
+            "second_to_zh": "地图",
+            "count": 3,
+            "sentiment_rating": [
+                0,
+                1,
+                0
+            ],
+            "correlation_degree": 3.7367356
+        },
+        {
+            "head": "storage",
+            "head_to_en": "storage",
+            "head_to_zh": "贮存",
+            "second": "full",
+            "second_to_en": "full",
+            "second_to_zh": "满的",
+            "count": 3,
+            "sentiment_rating": [
+                1,
+                1,
+                0
+            ],
+            "correlation_degree": 0.91007954
+        },
+        {
+            "head": "same",
+            "head_to_en": "same",
+            "head_to_zh": "相同的",
+            "second": "time",
+            "second_to_en": "time",
+            "second_to_zh": "时间",
+            "count": 3,
+            "sentiment_rating": [
+                1,
+                1,
+                0
+            ],
+            "correlation_degree": 0.24201204
+        },
+        {
+            "head": "play",
+            "head_to_en": "play",
+            "head_to_zh": "玩",
+            "second": "solo",
+            "second_to_en": "solo",
+            "second_to_zh": "独奏",
+            "count": 3,
+            "sentiment_rating": [
+                0,
+                1,
+                0
+            ],
+            "correlation_degree": 1.9537288
+        },
+        {
+            "head": "play",
+            "head_to_en": "play",
+            "head_to_zh": "玩",
+            "second": "armory",
+            "second_to_en": "armory",
+            "second_to_zh": "军械库",
+            "count": 3,
+            "sentiment_rating": [
+                0,
+                1,
+                0
+            ],
+            "correlation_degree": 0.7641447
+        }
+    ]
+}
